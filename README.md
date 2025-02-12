@@ -13,7 +13,7 @@ This project demonstrates how to control four DC motors using the L293D motor dr
 
 ## Circuit Diagram
 
-
+![Image](https://github.com/user-attachments/assets/d7e628e4-84fa-4ccd-9b06-5229727ffd50)
 Ensure to connect the motors and the L293D driver according to the provided circuit diagram.
 
 
